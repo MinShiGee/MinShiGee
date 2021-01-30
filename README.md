@@ -1,9 +1,4 @@
-<div align="center">
-<img src="" align="center" style="width: 100%" />
-</div>  
-  
-
-### <div align="center">Hi there! I'm minshigee, a junior student developer</div>  
+# <div align="center">Hi there! I'm minshigee, a junior developer!</div>  
   
 
 - 🔭 I’m currently working on TTC-Project {Backend : [[Socket]](https://github.com/MinShiGee/TTC-Project-Server), [[Api]](https://github.com/MinShiGee/TTC-Project-DataServer) }, {Frontend : [[Client]](https://github.com/MinShiGee/TTC-Project-Client) }  
