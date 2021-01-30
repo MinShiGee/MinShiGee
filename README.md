@@ -14,9 +14,7 @@
 
 
 ## My Skill Set  
-<table><tr><td valign="top" width="33%">
-
-
+<table><tr><td valign="top" width="50%">
 
 ### Frontend  
 <div align="center">  
@@ -25,9 +23,7 @@
 <img style="margin: 10px" src="https://user-images.githubusercontent.com/46314169/106357548-13738680-634a-11eb-80b1-ad00b16bb8ea.png" alt=".NET" height="50" />  
 </div>
 
-</td><td valign="top" width="33%">
-
-
+</td><td valign="top" width="50%">
 
 ### Backend  
 <div align="center">  
@@ -35,9 +31,6 @@
 <img style="margin: 10px" src="https://user-images.githubusercontent.com/46314169/106357547-12daf000-634a-11eb-8477-48f4d4c16744.png" alt="C#" height="50" />  
 <img style="margin: 10px" src="https://user-images.githubusercontent.com/46314169/106357548-13738680-634a-11eb-80b1-ad00b16bb8ea.png" alt=".NET" height="50" />  
 </div>
-
-</td><td valign="top" width="33%">
-
 
 
 </td></tr></table>  
