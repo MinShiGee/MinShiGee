@@ -6,13 +6,13 @@
 ### <div align="center">Hi there! I'm minshigee, a junior student developer</div>  
   
 
-- ?? I¡¯m currently working on TTC-Project {Backend : [[Socket]](https://github.com/MinShiGee/TTC-Project-Server), [[Api]](https://github.com/MinShiGee/TTC-Project-DataServer) }, {Frontend : [[Client]](https://github.com/MinShiGee/TTC-Project-Client) }  
+- ðŸ”­ Iâ€™m currently working on TTC-Project {Backend : [[Socket]](https://github.com/MinShiGee/TTC-Project-Server), [[Api]](https://github.com/MinShiGee/TTC-Project-DataServer) }, {Frontend : [[Client]](https://github.com/MinShiGee/TTC-Project-Client) }  
   
 
-- ?? I¡¯m currently learning .Net Core.??  
+- ðŸŒ± Iâ€™m currently learning .Net Core.ðŸ˜†  
   
 
-- ? Fun fact: I'm about to be drafted. ??  
+- âš¡ Fun fact: I'm about to be drafted. ðŸ¤£  
   
 
 <br/>  
