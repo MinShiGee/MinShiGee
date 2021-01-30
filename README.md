@@ -1,4 +1,4 @@
-# <div align="center">Hi there! I'm minshigee, a junior developer!</div>  
+## <div align="center">Hi there! I'm minshigee, a junior developer!</div>  
   
 
 - 🔭 I’m currently working on TTC-Project {Backend : [[Socket]](https://github.com/MinShiGee/TTC-Project-Server), [[Api]](https://github.com/MinShiGee/TTC-Project-DataServer) }, {Frontend : [[Client]](https://github.com/MinShiGee/TTC-Project-Client) }  
@@ -13,7 +13,7 @@
 <br/>  
 
 
-# My Skill Set  
+## My Skill Set  
 <table><tr><td valign="top" width="50%">
 
 ### Frontend  
@@ -38,13 +38,13 @@
 <br/>  
 
 
-# Github Stats  
+## Github Stats  
 <div align="left"><img src="https://github-readme-stats.vercel.app/api?username=MinShiGee&show_icons=true&count_private=true&hide_border=true" align="center" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinShiGee&hide_border=true&layout=compact" align="center" /></div>  
 
 <br/>  
 
 
-# Connect with me  
+## Connect with me  
 <div align="center">
 <a href="https://github.com/MinShiGee" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -58,7 +58,7 @@
 <br/>  
 
 
-# Recent Blog Posts  
+## Recent Blog Posts  
   
 
 <br/>  
