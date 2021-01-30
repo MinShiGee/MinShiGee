@@ -20,9 +20,9 @@
 
 ### Frontend  
 <div align="center">  
-<img style="margin: 10px" src="http://127.0.0.1:8000/skills-assets/unity.png" alt="Unity" height="50" />  
-<img style="margin: 10px" src="http://127.0.0.1:8000/skills-assets/csharp-original.svg" alt="C#" height="50" />  
-<img style="margin: 10px" src="http://127.0.0.1:8000/skills-assets/dot-net-original-wordmark.svg" alt=".NET" height="50" />  
+<img style="margin: 10px" src="https://user-images.githubusercontent.com/46314169/106357495-b677d080-6349-11eb-8de0-2bb361575444.png" alt="Unity" height="50" />  
+<img style="margin: 10px" src="https://user-images.githubusercontent.com/46314169/106357547-12daf000-634a-11eb-8477-48f4d4c16744.png" alt="C#" height="50" />  
+<img style="margin: 10px" src="https://user-images.githubusercontent.com/46314169/106357548-13738680-634a-11eb-80b1-ad00b16bb8ea.png" alt=".NET" height="50" />  
 </div>
 
 </td><td valign="top" width="33%">
@@ -31,9 +31,9 @@
 
 ### Backend  
 <div align="center">  
-<img style="margin: 10px" src="http://127.0.0.1:8000/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />  
-<img style="margin: 10px" src="http://127.0.0.1:8000/skills-assets/csharp-original.svg" alt="C#" height="50" />  
-<img style="margin: 10px" src="http://127.0.0.1:8000/skills-assets/dot-net-original-wordmark.svg" alt=".NET" height="50" />  
+<img style="margin: 10px" src="https://user-images.githubusercontent.com/46314169/106357549-140c1d00-634a-11eb-8a20-ce53c38335d6.png" alt="MongoDB" height="50" />  
+<img style="margin: 10px" src="https://user-images.githubusercontent.com/46314169/106357547-12daf000-634a-11eb-8477-48f4d4c16744.png" alt="C#" height="50" />  
+<img style="margin: 10px" src="https://user-images.githubusercontent.com/46314169/106357548-13738680-634a-11eb-80b1-ad00b16bb8ea.png" alt=".NET" height="50" />  
 </div>
 
 </td><td valign="top" width="33%">
