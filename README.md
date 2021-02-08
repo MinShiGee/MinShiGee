@@ -17,7 +17,8 @@
 <table><tr><td valign="top" width="50%">
 
 ### Frontend  
-<div align="center">  
+<div align="center">
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="Html" height="50" />
 <img style="margin: 10px" src="https://user-images.githubusercontent.com/46314169/106357495-b677d080-6349-11eb-8de0-2bb361575444.png" alt="Unity" height="50" />  
 <img style="margin: 10px" src="https://user-images.githubusercontent.com/46314169/106357547-12daf000-634a-11eb-8477-48f4d4c16744.png" alt="C#" height="50" />  
 <img style="margin: 10px" src="https://user-images.githubusercontent.com/46314169/106357548-13738680-634a-11eb-80b1-ad00b16bb8ea.png" alt=".NET" height="50" />  
