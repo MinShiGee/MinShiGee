@@ -7,9 +7,6 @@
 - 🌱 I’m currently learning .Net Core.😆  
   
 
-- ⚡ Fun fact: I'm about to be drafted. 🤣  
-  
-
 <br/>  
 
 
