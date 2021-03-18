@@ -1,40 +1,10 @@
-# <div align="center">Hi there! I'm minshigee, a junior developer!</div>  
+# <div align="left"><img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" width="30" height="30"></div>  
   
 
-- 🔭 I’m currently working on TTC-Project {Backend : [[Socket]](https://github.com/MinShiGee/TTC-Project-Server), [[Api]](https://github.com/MinShiGee/TTC-Project-DataServer) }, {Frontend : [[Client]](https://github.com/MinShiGee/TTC-Project-Client) }  
+- 🔭 I’m currently working on something cool.
+- 🌱 I’m currently learning .Net Core.
   
-
-- 🌱 I’m currently learning .Net Core.😆  
-  
-
 <br/>  
-
-
-# My Skill Set  
-<table><tr><td valign="top" width="50%">
-
-### Frontend  
-<div align="center">
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="Html" height="50" />
-<img style="margin: 10px" src="https://user-images.githubusercontent.com/46314169/106357495-b677d080-6349-11eb-8de0-2bb361575444.png" alt="Unity" height="50" />  
-<img style="margin: 10px" src="https://user-images.githubusercontent.com/46314169/106357547-12daf000-634a-11eb-8477-48f4d4c16744.png" alt="C#" height="50" />  
-<img style="margin: 10px" src="https://user-images.githubusercontent.com/46314169/106357548-13738680-634a-11eb-80b1-ad00b16bb8ea.png" alt=".NET" height="50" />  
-</div>
-
-</td><td valign="top" width="50%">
-
-### Backend  
-<div align="center">  
-<img style="margin: 10px" src="https://user-images.githubusercontent.com/46314169/106357549-140c1d00-634a-11eb-8a20-ce53c38335d6.png" alt="MongoDB" height="50" />  
-<img style="margin: 10px" src="https://user-images.githubusercontent.com/46314169/106357547-12daf000-634a-11eb-8477-48f4d4c16744.png" alt="C#" height="50" />  
-<img style="margin: 10px" src="https://user-images.githubusercontent.com/46314169/106357548-13738680-634a-11eb-80b1-ad00b16bb8ea.png" alt=".NET" height="50" />  
-</div>
-
-
-</td></tr></table>  
-
-<br/>  
-
 
 # Github Stats  
 <div align="left"><img src="https://github-readme-stats.vercel.app/api?username=MinShiGee&show_icons=true&count_private=true&hide_border=true" align="center" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinShiGee&hide_border=true&layout=compact" align="center" /></div>  
@@ -74,11 +44,5 @@
 <img src="https://komarev.com/ghpvc/?username=MinShiGee&&style=flat-square" align="center" />
 </div>  
   
-
 <br/>  
 
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
