@@ -14,7 +14,7 @@
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=minshigee" align="center" /></div>
 <br/>  
 
-### Recent Blog Posts  
+### 📕 Latest Blog Posts  
 
 <br/>  
 
