@@ -5,13 +5,13 @@
 
 ### :octocat: My Github Stats
 <hr/>
-<div align="left"><img src="https://github-readme-stats.vercel.app/api?username=MinShiGee&show_icons=true&count_private=true&hide_border=true" align="center" />
+<div align="left"><img src="https://readme-updater-minshigee.vercel.app/api?username=MinShiGee&show_icons=true&count_private=true&hide_border=true" align="center" />
 <br/>
 <br/>
   
 ### 📊 This week I spent my time on
 <hr/>
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=@minshigee" align="center" /></div>
+<img src="https://readme-updater-minshigee.vercel.app/api/wakatime?username=@minshigee" align="center" /></div>
 <br/>  
 
 ### 📕 Latest Blog Posts  
