@@ -11,7 +11,7 @@
   
 ### 📊 This week I spent my time on
 <hr/>
-<img src="https://readme-editor.vercel.app/api/wakatime?username=@minshigee" align="center" /></div>
+<img src="https://readme-editor.vercel.app/api/wakatime?username=@minshigee2" align="center" /></div>
 <br/>  
 
 ### 📕 Latest Blog Posts  
