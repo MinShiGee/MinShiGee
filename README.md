@@ -15,10 +15,10 @@
 
 ### 📕 Latest Blog Posts  
 <hr/>
+
 <!-- BLOG-POST-LIST:START -->
 - [Log01: Init Blog](https://minshigee.github.io/dailylog/Init-Blog/)
 <!-- BLOG-POST-LIST:END -->  
-<br/>
 
 <hr/>
 <br/>  
