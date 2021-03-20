@@ -7,8 +7,7 @@
 <hr/>
 <div align="left"><img src="https://readme-editor.vercel.app/api?username=MinShiGee&show_icons=true&count_private=true&hide_border=true" align="center" />
 <br/>
-<br/>
-  
+
 ### 📊 This week I spent my time on
 <hr/>
 <img src="https://readme-editor.vercel.app/api/wakatime?username=@minshigee&v=2" align="center" /></div>
@@ -19,11 +18,12 @@
 <!-- BLOG-POST-LIST:START -->
 - [Log01: Init Blog](https://minshigee.github.io/dailylog/Init-Blog/)
 <!-- BLOG-POST-LIST:END -->  
+<br/>
 
+<hr/>
 <br/>  
-
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=MinShiGee&&style=flat-square" align="center" />
+<img src="https://komarev.com/ghpvc/?username=MinShiGee&&style=flat-square"/>
 </div>  
   
 <br/>  
