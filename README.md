@@ -17,6 +17,7 @@
 <hr/>
 
 <!-- BLOG-POST-LIST:START -->
+- [Log02: WebGL 멀티플레이 구현하기01](https://minshigee.github.io/devlog/unity/webgl/mirror%20networking/Webgl-Multiplay-Toy/)
 - [Log01: Init Blog](https://minshigee.github.io/dailylog/Init-Blog/)
 <!-- BLOG-POST-LIST:END -->  
 
