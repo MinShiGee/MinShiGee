@@ -3,11 +3,6 @@
   This is the place where I study and record.😉
 <br/>
 
-### :octocat: My Github Stats
-<hr/>
-<div align="left"><img src="https://readme-editor.vercel.app/api?username=MinShiGee&show_icons=true&count_private=true&hide_border=true" align="center" />
-<br/>
-
 ### 📊 This week I spent my time on
 <hr/>
 <img src="https://readme-editor.vercel.app/api/wakatime?username=@minshigee&v=2" align="center" /></div>
