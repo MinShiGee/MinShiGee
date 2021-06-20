@@ -12,7 +12,7 @@
 <hr/>
 
 <!-- BLOG-POST-LIST:START -->
-- [Log01: Init Blog](https://minshigee.github.io/dailylog/Init-Blog/)
+- [Log01: pmrs - 멀쩡한 사각형](https://minshigee.github.io/devlog/ps/python/%EB%A9%80%EC%A9%A1%ED%95%9C%EC%82%AC%EA%B0%81%ED%98%95/)
 <!-- BLOG-POST-LIST:END -->  
 
 <hr/>
