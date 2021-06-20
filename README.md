@@ -12,6 +12,7 @@
 <hr/>
 
 <!-- BLOG-POST-LIST:START -->
+- [Log02: pmrs - 출국 심사](https://minshigee.github.io/devlog/ps/python/%EC%B6%9C%EA%B5%AD%EC%8B%AC%EC%82%AC/)
 - [Log01: pmrs - 멀쩡한 사각형](https://minshigee.github.io/devlog/ps/python/%EB%A9%80%EC%A9%A1%ED%95%9C%EC%82%AC%EA%B0%81%ED%98%95/)
 <!-- BLOG-POST-LIST:END -->  
 
