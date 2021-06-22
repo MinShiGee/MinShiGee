@@ -12,11 +12,11 @@
 <hr/>
 
 <!-- BLOG-POST-LIST:START -->
+- [Log06: pmrs - 디스크 컨트롤러](https://minshigee.github.io/devlog/ps/python/%EB%94%94%EC%8A%A4%ED%81%AC%EC%BB%A8%ED%8A%B8%EB%A1%A4%EB%9F%AC/)
 - [Log03: pmrs - 짝지어 제거하기](https://minshigee.github.io/devlog/ps/python/1%EC%A7%9D%EC%A7%80%EC%96%B4%EC%A0%9C%EA%B1%B0%ED%95%98%EA%B8%B0/)
 - [Log04: pmrs - 전화번호 목록](https://minshigee.github.io/devlog/ps/python/2%EC%A0%84%ED%99%94%EB%B2%88%ED%98%B8%EB%AA%A9%EB%A1%9D/)
 - [Log05: pmrs - 위장](https://minshigee.github.io/devlog/ps/python/3%EC%9C%84%EC%9E%A5/)
 - [Log02: pmrs - 출국 심사](https://minshigee.github.io/devlog/ps/python/%EC%B6%9C%EA%B5%AD%EC%8B%AC%EC%82%AC/)
-- [Log01: pmrs - 멀쩡한 사각형](https://minshigee.github.io/devlog/ps/python/%EB%A9%80%EC%A9%A1%ED%95%9C%EC%82%AC%EA%B0%81%ED%98%95/)
 <!-- BLOG-POST-LIST:END -->  
 
 <hr/>
