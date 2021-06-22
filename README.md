@@ -12,11 +12,11 @@
 <hr/>
 
 <!-- BLOG-POST-LIST:START -->
-- [Log06: pmrs - 디스크 컨트롤러](https://minshigee.github.io/devlog/ps/python/%EB%94%94%EC%8A%A4%ED%81%AC%EC%BB%A8%ED%8A%B8%EB%A1%A4%EB%9F%AC/)
+- [Log06: pmrs - 디스크 컨트롤러](https://minshigee.github.io/devlog/ps/python/1%EB%94%94%EC%8A%A4%ED%81%AC%EC%BB%A8%ED%8A%B8%EB%A1%A4%EB%9F%AC/)
+- [Log07: pmrs - H-Index](https://minshigee.github.io/devlog/ps/python/2H-Index/)
+- [Log08: pmrs - 이중 우선순위 큐](https://minshigee.github.io/devlog/ps/python/3%EC%9D%B4%EC%A4%91%EC%9A%B0%EC%84%A0%EC%88%9C%EC%9C%84%ED%81%90/)
 - [Log03: pmrs - 짝지어 제거하기](https://minshigee.github.io/devlog/ps/python/1%EC%A7%9D%EC%A7%80%EC%96%B4%EC%A0%9C%EA%B1%B0%ED%95%98%EA%B8%B0/)
 - [Log04: pmrs - 전화번호 목록](https://minshigee.github.io/devlog/ps/python/2%EC%A0%84%ED%99%94%EB%B2%88%ED%98%B8%EB%AA%A9%EB%A1%9D/)
-- [Log05: pmrs - 위장](https://minshigee.github.io/devlog/ps/python/3%EC%9C%84%EC%9E%A5/)
-- [Log02: pmrs - 출국 심사](https://minshigee.github.io/devlog/ps/python/%EC%B6%9C%EA%B5%AD%EC%8B%AC%EC%82%AC/)
 <!-- BLOG-POST-LIST:END -->  
 
 <hr/>
