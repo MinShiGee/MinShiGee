@@ -12,11 +12,11 @@
 <hr/>
 
 <!-- BLOG-POST-LIST:START -->
+- [Log15: pmrs - 순위](https://minshigee.github.io/devlog/ps/python/%EC%88%9C%EC%9C%84/)
 - [Log14: pmrs - 여행경로](https://minshigee.github.io/devlog/ps/python/%EC%97%AC%ED%96%89%EA%B2%BD%EB%A1%9C/)
 - [Log13: pmrs - 단어 변환](https://minshigee.github.io/devlog/ps/python/%EB%8B%A8%EC%96%B4%EB%B3%80%ED%99%98/)
 - [Log12: NestJS - 01](https://minshigee.github.io/devlog/nestjs/typescript/reference/NestJS01/)
 - [Log11: pmrs - 네트워크](https://minshigee.github.io/devlog/ps/python/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/)
-- [Log10: pmrs - 가장 먼 노드](https://minshigee.github.io/devlog/ps/python/%EA%B0%80%EC%9E%A5%EB%A8%BC%EB%85%B8%EB%93%9C/)
 <!-- BLOG-POST-LIST:END -->  
 
 <hr/>
