@@ -23,11 +23,11 @@
 <hr/>
 
 <!-- BLOG-POST-LIST:START -->
-- [Log18: pmrs - 등굣길](https://minshigee.github.io/devlog/ps/python/%EB%93%B1%EA%B5%A3%EA%B8%B8/)
-- [Log17: pmrs - 2*n 타일링](https://minshigee.github.io/devlog/ps/python/2n%ED%83%80%EC%9D%BC%EB%A7%81/)
-- [Log16: pmrs - 카펫](https://minshigee.github.io/devlog/ps/python/%EC%B9%B4%ED%8E%AB/)
-- [Log15: pmrs - 순위](https://minshigee.github.io/devlog/ps/python/%EC%88%9C%EC%9C%84/)
-- [Log14: pmrs - 여행경로](https://minshigee.github.io/devlog/ps/python/%EC%97%AC%ED%96%89%EA%B2%BD%EB%A1%9C/)
+- [pmrs - 정수 삼각형](https://minshigee.github.io/devlog/ps/python/%EC%A0%95%EC%88%98%EC%82%BC%EA%B0%81%ED%98%95/)
+- [pmrs - 등굣길](https://minshigee.github.io/devlog/ps/python/%EB%93%B1%EA%B5%A3%EA%B8%B8/)
+- [pmrs - 2*n 타일링](https://minshigee.github.io/devlog/ps/python/2n%ED%83%80%EC%9D%BC%EB%A7%81/)
+- [pmrs - 카펫](https://minshigee.github.io/devlog/ps/python/%EC%B9%B4%ED%8E%AB/)
+- [pmrs - 순위](https://minshigee.github.io/devlog/ps/python/%EC%88%9C%EC%9C%84/)
 <!-- BLOG-POST-LIST:END -->  
 
 <hr/>
