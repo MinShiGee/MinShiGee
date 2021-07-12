@@ -23,11 +23,11 @@
 <hr/>
 
 <!-- BLOG-POST-LIST:START -->
+- [pmrs - 신규 아이디 추천](https://minshigee.github.io/devlog/ps/python/%EC%8B%A0%EA%B7%9C%EC%95%84%EC%9D%B4%EB%94%94%EC%B6%94%EC%B2%9C/)
 - [현역 IT 병역특례를 준비하면서…](https://minshigee.github.io/dailylog/%EB%B3%91%ED%8A%B901/)
 - [pmrs - 섬 연결하기](https://minshigee.github.io/devlog/ps/python/%EC%84%AC%EC%97%B0%EA%B2%B0%ED%95%98%EA%B8%B0/)
 - [pmrs - 정수 삼각형](https://minshigee.github.io/devlog/ps/python/%EC%A0%95%EC%88%98%EC%82%BC%EA%B0%81%ED%98%95/)
 - [pmrs - 등굣길](https://minshigee.github.io/devlog/ps/python/%EB%93%B1%EA%B5%A3%EA%B8%B8/)
-- [pmrs - 2*n 타일링](https://minshigee.github.io/devlog/ps/python/2n%ED%83%80%EC%9D%BC%EB%A7%81/)
 <!-- BLOG-POST-LIST:END -->  
 
 <hr/>
